@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshipahuja&label=Profile%20views&color=0e75b6&style=flat" alt="himanshipahuja" /> </p>
 
 
+- 🌐 Tech explorer and problem solver
 
+- 💻 Building web dreams with HTML, CSS, and JavaScript
 
 - 🌱 I’m currently learning **NodeJS**
 
