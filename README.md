@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshipahuja&label=Profile%20views&color=0e75b6&style=flat" alt="himanshipahuja" /> </p>
 
 
 - 🌐 Tech explorer and problem solver
@@ -37,3 +36,11 @@
 
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshipahuja" alt="himanshipahuja" /></a> </p>
+
+
+<h3 align="center">
+------ Views ------ 
+ </h3>
+<p align="center">
+<img src="https://profile-counter.glitch.me/himanshipahuja/count.svg"></p>
+<p>
